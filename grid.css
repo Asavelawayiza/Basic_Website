@@ -1,0 +1,33 @@
+table, th, td { 
+    border:1px solid black; 
+   } 
+      
+  th {
+      color: black;
+  }
+  td {
+      color: blue;
+  }
+  table {
+      background-color: beige;
+  }
+  .float-left{
+      float: left;
+      margin: 1em;
+  }
+  .float-right{
+      float: right;
+      margin: 1em;
+  }
+ 
+h2 {
+    color: darkblue;
+}
+h3 {
+    color: red;
+} 
+
+.clearfix {
+    overflow: auto;
+  }
+  
